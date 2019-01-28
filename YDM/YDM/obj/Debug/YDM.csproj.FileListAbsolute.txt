@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\YDM\YDM\bin\Debug\YDM.exe.config
+C:\Users\hp\source\repos\YDM\YDM\bin\Debug\YDM.exe
+C:\Users\hp\source\repos\YDM\YDM\bin\Debug\YDM.pdb
+C:\Users\hp\source\repos\YDM\YDM\obj\Debug\YDM.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\YDM\YDM\obj\Debug\YDM.Form1.resources
+C:\Users\hp\source\repos\YDM\YDM\obj\Debug\YDM.Properties.Resources.resources
+C:\Users\hp\source\repos\YDM\YDM\obj\Debug\YDM.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\YDM\YDM\obj\Debug\YDM.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\YDM\YDM\obj\Debug\YDM.exe
+C:\Users\hp\source\repos\YDM\YDM\obj\Debug\YDM.pdb
